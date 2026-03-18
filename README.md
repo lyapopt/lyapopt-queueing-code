@@ -2,8 +2,7 @@
 
 This repository contains the MATLAB code used in the paper:
 
-**Finite‑Time Minimax Bounds and an Optimal Lyapunov Policy in Queueing Control**  
-Yujie Liu, Vincent Y. F. Tan, Yunbei Xu  
+**Finite‑Time Minimax Bounds and an Optimal Lyapunov Policy in Queueing Control**   
 
 # main files
 - genDepartureSet.m # Generate the scheduling set \( \mathcal{D} \) and its facets.  
