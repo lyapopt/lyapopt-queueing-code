@@ -12,5 +12,6 @@ This repository contains the MATLAB code used in the paper:
 - run_single_lambda_plot.m # Plot total queue length/sum of squares of queue lengths for a single instance (lambda)
 - run_single_lambda_before_arrival_plot.m # Plot total queue length/total queue lengths before arrivals for a single instance (lambda)
 - run_lambda_performance.m # Batch performance evaluation over many instances (lambda)
+- run_queue_compare_nm_model.m # Plot total queue lengths for N/M- model
 - output_genDepartureSet_n=7.mat # Pre-generated D and faces for n=7
 - output_genDepartureSet_n=8.mat # Pre-generated D and faces for n=8
